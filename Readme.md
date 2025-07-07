@@ -40,25 +40,6 @@
   - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
   - [Licença](#licença)
   - [👤 Autor](#-autor)
->>>>>>> 00e681ecf908c7720cc8eb4fbf1adf8f9a9ca25e
-- [Formulário Low Code](#formulário-low-code)
-  - [📑 Índice](#-índice)
-  - [🎯Objetivo](#objetivo)
-  - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-  - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
-    - [Pré-requisitos](#pré-requisitos)
-    - [Instale as dependências](#instale-as-dependências)
-  - [🚀 Execução](#-execução)
-    - [Passo a Passo](#passo-a-passo)
-      - [1. Clone o repositório](#1-clone-o-repositório)
-      - [2. Execute o servidor](#2-execute-o-servidor)
-      - [3. Cria versão otimizada (se aplicável)](#3-cria-versão-otimizada-se-aplicável)
-  - [Estrutura do Projeto](#estrutura-do-projeto)
-  - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
-  - [Licença](#licença)
-  - [👤 Autor](#-autor)
-
-<br>
 
 ---
 
