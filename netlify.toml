@@ -1,9 +1,15 @@
 [build]
   command = "npm install && npm run build"
   publish = "public"
-  functions = "functions"  # Pasta das funçoes serverless
+  functions = "functions"
 
 [[redirects]]
   from = "/*"
-  to = "/.netlify/functions/render"
+  to = "/index.html"
   status = 200
+
+[[redirects]]
+  from = "/.netlify/functions/render"
+  to = "200"
+  status = 200
+  force = true
