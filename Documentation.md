@@ -11,8 +11,7 @@ Este documento descreve um pequeno código da estruturas Backend e  Frontend uti
 [Documentação Técnica: Formulário Low Code](#-documentação-técnica-formulário-low-code)
 
 - [📁 Documentação Técnica: Formulário Low Code](#-documentação-técnica-formulário-low-code)
-  - [📑 Índice](#-índice)
-  - [1. Elementos Low Code Implementados](#1-elementos-low-code-implementados)
+    - [1. Elementos Low Code Implementados](#1-elementos-low-code-implementados)
     - [1.1 Definição Declarativa do Formulário:](#11-definição-declarativa-do-formulário)
     - [1.2 Geração Automática de UI](#12-geração-automática-de-ui)
     - [1.3 Integração "Zero Code" com WhatsApp](#13-integração-zero-code-com-whatsapp)
