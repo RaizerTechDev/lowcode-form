@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "nome": {
+      "type": "string",
+      "title": "Nome Completo",
+      "minLength": 3
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "title": "E-mail"
+    },
+
+    "produto": {
+      "type": "string",
+      "title": "Produto",
+      "oneOf": [
+        {
+          "title": "Vestuário",
+          "enum": ["Camiseta", "Moletom", "Boné"]
+        },
+        {
+          "title": "Acessórios",
+          "enum": ["Caneca", "Agenda", "Mochila"]
+        }
+      ]
+    }
+  },
+  "options": {
+    "expandable": false,
+    "showGroups": true   
+  },
+  "required": ["nome", "email"]
+}
