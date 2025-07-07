@@ -23,7 +23,7 @@
 ---
 
 <div align="left">
-
+<!-- TOC ignore:true -->
 ## 📑 Índice
 - [FORMULÁRIO LOW CODE](#formulário-low-code)
   - [📑 Índice](#-índice)
@@ -44,7 +44,7 @@
   - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
   - [Licença](#licença)
   - [👤 Autor](#-autor)
-
+<!-- TOC ignore:false -->
 <br>
 
 ---
