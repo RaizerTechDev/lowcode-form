@@ -1,6 +1,6 @@
  <div align="center">
 
-# FORMULÁRIO LOW CODE
+# Formulário Low Code
 
 🚀 Envie pedidos diretamente para meu WhatsApp com um formulário gerado automaticamente!
 
@@ -25,7 +25,7 @@
 <div align="left">
 
 ## 📑 Índice
-- [FORMULÁRIO LOW CODE](#formulário-low-code)
+- [Formulário Low Code](#formulário-low-code)
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
   - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
