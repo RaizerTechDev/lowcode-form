@@ -41,12 +41,11 @@ titleContainer.style.alignItems = 'center';
 titleContainer.style.gap = '15px';
 titleContainer.style.marginBottom = '2rem';
 
-// Adiciona o título
 const title = document.createElement('h2');
 title.textContent = 'Faça seu pedido';
 
 const robotGif = document.createElement('img');
-robotGif.src = '/images/robot.gif'; // Caminho para sua imagem local
+robotGif.src = '/images/robot.gif'; 
 robotGif.alt = 'Robô animado';
 robotGif.classList.add('robot-gif');
 
@@ -83,13 +82,9 @@ form.innerHTML += `
   `).join('')}
   <button type="submit">Enviar Pedido</button>
 `;
-
-
-    // Adiciona ao container
     document.getElementById('form-container').appendChild(form);
   
-    // Envio para WhatsApp
-    form.addEventListener('submit', (e) => {
+        form.addEventListener('submit', (e) => {
         e.preventDefault();
         
         const btn = form.querySelector('button[type="submit"]');
@@ -114,8 +109,7 @@ form.innerHTML += `
           
           window.location.href = `https://wa.me/5547999327137?text=${encodeURIComponent(mensagem)}`;
           
-          // Restaura botão (opcional - só executa se o redirecionamento falhar)
-          btn.classList.remove('button--loading');
+       btn.classList.remove('button--loading');
           btn.disabled = false;
           btn.innerHTML = btnText;
         }, 1500);

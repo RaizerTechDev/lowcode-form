@@ -1,6 +1,6 @@
  <div align="center">
 
-# FORMULÁRIO LOW CODE
+# Formulário Low Code
 
 🚀 Envie pedidos diretamente para meu WhatsApp com um formulário gerado automaticamente!
 
@@ -25,7 +25,8 @@
 <div align="left">
 
 ## 📑 Índice
-- [FORMULÁRIO LOW CODE](#formulário-low-code)
+- [Formulário Low Code](#formulário-low-code)
+  - [📑 Índice](#-índice)
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
   - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
@@ -36,9 +37,6 @@
       - [1. Clone o repositório](#1-clone-o-repositório)
       - [2. Execute o servidor](#2-execute-o-servidor)
       - [3. Cria versão otimizada (se aplicável)](#3-cria-versão-otimizada-se-aplicável)
-  - [Personalização](#personalização)
-    - [1. form.js](#1-formjs)
-    - [2. styles.css](#2-stylescss)
   - [Estrutura do Projeto](#estrutura-do-projeto)
   - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
   - [Licença](#licença)
@@ -121,76 +119,6 @@ npm start
 
 ```bash
 npm run build
-```
-
-<br>
-
----
-
-## Personalização
-
-### 1. form.js
-
-- Adicionar/Remover Campos
-
-```bash
-javascript
-const formFields = [
-      {
-        id: 'nome',
-        label: 'Nome Completo',
-        type: 'text',
-        required: true
-      },
-      {
-        id: 'email',
-        label: 'E-mail',
-        type: 'email',
-        required: true
-      },
-      {
-        id: 'produto',
-        label: 'Produto',
-        type: 'select',
-        required: true,
-        options: [
-          {
-            group: 'Vestuário',
-            items: ['Camiseta', 'Moletom', 'Boné']
-          },
-          {
-            group: 'Acessórios',
-            items: ['Caneca', 'Agenda', 'Mochila']
-          }
-        ]
-      }
-    ];
-```
-
-- Alterar Destino do WhatsApp
-
-```bash
-javascript
-window.location.href = `https://wa.me/SEU_NUMERO_AQUI?text=${mensagemCodificada}`;
-```
-
-### 2. styles.css
-
-- Exemplo: Mudar gradiente do botão
-
-```bash
-css
-button[type="submit"] {
- background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
-}
-```
-
-- Exemplo: Alterar fonte
-
-```bash
-body {
- font-family: 'Poppins', sans-serif;
-}
 ```
 
 <br>
