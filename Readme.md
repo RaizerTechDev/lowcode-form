@@ -26,7 +26,6 @@
 
 ## 📑 Índice
 - [Formulário Low Code](#formulário-low-code)
-  - [📑 Índice](#-índice)
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
   - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
@@ -43,8 +42,6 @@
   - [Estrutura do Projeto](#estrutura-do-projeto)
   - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
   - [Licença](#licença)
-
-
 
 
 <br>
@@ -240,9 +237,14 @@ lowcode-form/
 
 Este projeto está sob licença MIT - veja o arquivo LICENSE para detalhes.
 
+<br>
 
-[def]: #formulário-low-code
-[def2]: #formulário-low-code
-[def3]: #licença
-[def4]: #licença
-[def5]: #licença
+---
+
+##### 👤 Autor
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
+    <p>&nbsp&nbsp&nbspRafaRaizer-Dev<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RaizerTechDev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://raizertechdev-portfolio.netlify.app/">Portfólio</a>&nbsp;</p>
+</p>
