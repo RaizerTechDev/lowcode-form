@@ -1,6 +1,6 @@
  <div align="center">
 
-# Formulário Low Code
+# FORMULÁRIO LOW CODE
 
 🚀 Envie pedidos diretamente para meu WhatsApp com um formulário gerado automaticamente!
 
@@ -8,7 +8,7 @@
 
 <img src="public/images/doc.png" alt="Imagem-Documentacao" height="35" />
 
-[![Documentação](https://img.shields.io/badge/Documentação-Oficial-success)](https://github.com/RaizerTechDev/TaskFlow-Gerenciador-de-Tarefas/blob/master/Documentation.md)
+[![Documentação](https://img.shields.io/badge/Documentação-Oficial-success)](https://github.com/RaizerTechDev/lowcode-form/blob/master/Documentation.md)
 
 [( Clique aqui para realizar seu `Pedido`)](https://task-flow-gerenciador-de-tarefas-frontend.vercel.app/)
 
@@ -25,7 +25,8 @@
 <div align="left">
 
 ## 📑 Índice
-- [Formulário Low Code](#formulário-low-code)
+- [FORMULÁRIO LOW CODE](#formulário-low-code)
+  - [📑 Índice](#-índice)
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
   - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
@@ -41,8 +42,8 @@
     - [2. styles.css](#2-stylescss)
   - [Estrutura do Projeto](#estrutura-do-projeto)
   - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
-  - [Licença](#licença)  
-  - [Autor](#-autor)
+  - [Licença](#licença)
+  - [👤 Autor](#-autor)
 
 <br>
 
@@ -241,7 +242,7 @@ Este projeto está sob licença MIT - veja o arquivo LICENSE para detalhes.
 
 ---
 
-##### 👤 Autor
+## 👤 Autor
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
