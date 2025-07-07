@@ -41,8 +41,8 @@
     - [2. styles.css](#2-stylescss)
   - [Estrutura do Projeto](#estrutura-do-projeto)
   - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
-  - [Licença](#licença)
-
+  - [Licença](#licença)  
+  - [Autor](#-autor)
 
 <br>
 
