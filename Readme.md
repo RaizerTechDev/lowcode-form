@@ -26,7 +26,10 @@
 
 ## 📑 Índice
 - [Formulário Low Code](#formulário-low-code)
+<<<<<<< HEAD
   - [📑 Índice](#-índice)
+=======
+>>>>>>> 00e681ecf908c7720cc8eb4fbf1adf8f9a9ca25e
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
   - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
