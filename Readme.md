@@ -23,11 +23,9 @@
 ---
 
 <div align="left">
-<!-- TOC ignore:true -->
 
 ## 📑 Índice
 - [FORMULÁRIO LOW CODE](#formulário-low-code)
-  - [📑 Índice](#-índice)
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
   - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
@@ -45,7 +43,7 @@
   - [Fluxo de Funcionamento](#fluxo-de-funcionamento)
   - [Licença](#licença)
   - [👤 Autor](#-autor)
-<!-- TOC ignore:false -->
+
 <br>
 
 ---
