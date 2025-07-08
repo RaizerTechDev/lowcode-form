@@ -10,8 +10,7 @@ app.get('/', (req, res) => {
   res.render('index', { title: "Formulário WhatsApp" });
 });
 
-// Inicia servidor local
-if (!process.env.NETLIFY) {
+if (!process.env.VERCEL) {
   app.listen(3000, () => console.log('Local: http://localhost:3000'));
 }
 
