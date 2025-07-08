@@ -1,28 +1,17 @@
 {
   "name": "lowcode-form",
   "version": "1.0.0",
-  "main": "server.js",
   "scripts": {
     "start": "node src/server.js",
-    "dev": "netlify dev",
-    "deploy": "npm run build && netlify deploy --prod",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo 'Build não necessario - Projeto Low Code' && exit 0"
+    "dev": "vercel dev",
+    "deploy": "vercel",
+    "deploy:prod": "vercel --prod"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "@jsonforms/core": "^3.6.0",
-    "@jsonforms/react": "^3.6.0",
-    "body-parser": "^2.2.0",
-    "ejs": "^3.1.10",
-    "express": "^5.1.0",
-    "jsonform": "^2.2.5"
+    "express": "4.18.2",
+    "ejs": "3.1.9"
   },
   "devDependencies": {
-    "@netlify/functions": "^1.6.0",
-    "nodemon": "^3.0.2"
+    "vercel": "^33.0.1"
   }
 }
