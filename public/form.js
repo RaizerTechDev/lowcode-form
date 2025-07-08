@@ -29,9 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         ]
       }
-    ];
+    ];  
   
-    // Cria o formulário manualmente
 const form = document.createElement('form');
 form.id = 'whatsapp-form';
 
