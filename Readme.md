@@ -1,15 +1,6 @@
-<div class="no-border" align="center">
+<div align="center">
 
-<style>
-  .no-border h1, .no-border h2, .no-border h3, .no-border h4 {
-    border-bottom: none !important;
-    padding-bottom: 0 !important;
-    box-shadow: none !important;
-    margin-bottom: 10px !important;
-  }
-</style>
-
-# Formulário Low Code
+<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Formulário Low Code</h1>
 
 🚀 Envie pedidos diretamente para meu WhatsApp com um formulário gerado automaticamente!
 
@@ -17,21 +8,28 @@
 
 [![Documentação](https://img.shields.io/badge/Documentação-Oficial-success)](https://github.com/RaizerTechDev/lowcode-form/blob/master/Documentation.md)
 
-[( Clique aqui para realizar seu `Pedido`)](https://raizertechdev-lowcode-form.vercel.app//)
+[( Clique aqui para realizar seu `Pedido`)](https://task-flow-gerenciador-de-tarefas-frontend.vercel.app/)
 
 <br>
   
-<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" height="55" width="55"> [Demonstração-Projeto-RaizerTech] <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" height="25" width="25">
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 15px 0;">
+  <img src="https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" height="55" width="55">
+  <span>Demonstração-Projeto-RaizerTech</span>
+  <img src="https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" height="25" width="25">
+</div>
 
-<img height="380em" src="public/images/apresentacao-readme-formulario.png">
+<img height="380" src="public/images/apresentacao-readme-formulario.png" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+
+</div>
 
 <br>
 
----
+--- 
 
-<div class="no-border"  align="left">
+<div align="left">
 
-## 📑 Índice
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">📑 Índice</h2>
+
 - [Formulário Low Code](#formulário-low-code)
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
@@ -50,9 +48,9 @@
 
 <br>
 
----
+--- 
 
-## 🎯Objetivo
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">🎯Objetivo</h2>
 
 Criar uma solução Low Code que:
 
@@ -77,6 +75,21 @@ Criar uma solução Low Code que:
    - Compatível com mobile (usa transformações 3D aceleradas por GPU). 
 
 <br>
+  
+--- 
+
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">🛠️ Tecnologias Utilizadas</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS">
+</p>
+
+<br> 
   
 ---
 
