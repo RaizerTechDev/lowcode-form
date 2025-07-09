@@ -95,14 +95,14 @@ Criar uma solução Low Code que:
 
 <h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 🛠️Configuração e Instalação dos Ambientes</h2>
 
-### Pré-requisitos 
+<h3 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Pré-requisitos</h3> 
 
 - Node.js (v18+)
 - NPM (v9+)
 
 <br>
 
-### Instale as dependências
+<h3 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> Instale as dependências<h3>
 
 ```bash
 npm install
@@ -114,9 +114,9 @@ npm install
 
 <h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 🚀 Execução </h2>
 
-### Passo a Passo
+<h3 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Passo a Passo</h3>
 
-#### 1. Clone o repositório
+<h4 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 1. Clone o repositório</h4>
 
 ```bash
 git clone https://github.com/seu-usuario/lowcode-form.git
@@ -125,7 +125,7 @@ cd lowcode-form
 
 <br>
 
-#### 2. Execute o servidor
+<h4 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 2. Execute o servidor</h4>
 
 ```bash
 npm start
@@ -136,7 +136,7 @@ npm start
 
 <br>
 
-#### 3. Cria versão otimizada (se aplicável)
+<h4 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 3. Cria versão otimizada (se aplicável)</h4>
 
 ```bash
 npm run build
