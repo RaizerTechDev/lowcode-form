@@ -93,25 +93,9 @@ Criar uma solução Low Code que:
   
 ---
 
-## 🛠️ Tecnologias Utilizadas
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 🛠️Configuração e Instalação dos Ambientes</h2>
 
-<p align="left">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS">
-</p>
-
-<br>
-
----
-
-## 🛠️Configuração e Instalação dos Ambientes
-
-### Pré-requisitos
+### Pré-requisitos 
 
 - Node.js (v18+)
 - NPM (v9+)
@@ -128,7 +112,7 @@ npm install
 
 ---
 
-## 🚀 Execução
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 🚀 Execução </h2>
 
 ### Passo a Passo
 
@@ -162,7 +146,7 @@ npm run build
 
 ---
 
-## Estrutura do Projeto
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Estrutura do Projeto</h2>
 
 ```text
 lowcode-form/
@@ -181,7 +165,7 @@ lowcode-form/
 
 ---
 
-## Fluxo de Funcionamento
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> Fluxo de Funcionamento</h2>
 
 - Diagrama
   <img height="280em" src="public/images/fluxo-funcionamento.png"   align="center">
@@ -202,7 +186,7 @@ lowcode-form/
 
 ---
 
-## Licença
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> Licença</h2>
 
 Este projeto está sob licença MIT - veja o arquivo LICENSE para detalhes.
 
@@ -210,7 +194,7 @@ Este projeto está sob licença MIT - veja o arquivo LICENSE para detalhes.
 
 ---
 
-## 👤 Autor
+<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">👤 Autor</h2>
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
