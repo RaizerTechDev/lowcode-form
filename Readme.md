@@ -1,3 +1,5 @@
+<div class="no-border" align="center">
+
 <style>
   .no-border h1, .no-border h2, .no-border h3, .no-border h4 {
     border-bottom: none !important;
@@ -6,8 +8,6 @@
     margin-bottom: 10px !important;
   }
 </style>
-
-<div class="no-border" align="center">
 
 # Formulário Low Code
 
