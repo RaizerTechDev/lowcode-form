@@ -1,28 +1,37 @@
- <div align="center">
+<style>
+  .no-border h1, .no-border h2, .no-border h3, .no-border h4 {
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+    box-shadow: none !important;
+    margin-bottom: 10px !important;
+  }
+</style>
+
+<div class="no-border" align="center">
 
 # Formulário Low Code
 
 🚀 Envie pedidos diretamente para meu WhatsApp com um formulário gerado automaticamente!
 
- <div align="center">
-
 <img src="public/images/doc.png" alt="Imagem-Documentacao" height="35" />
 
 [![Documentação](https://img.shields.io/badge/Documentação-Oficial-success)](https://github.com/RaizerTechDev/lowcode-form/blob/master/Documentation.md)
 
-[( Clique aqui para realizar seu `Pedido`)](https://task-flow-gerenciador-de-tarefas-frontend.vercel.app/)
+[( Clique aqui para realizar seu `Pedido`)](https://raizertechdev-lowcode-form.vercel.app//)
 
 <br>
   
-<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [Demonstração-Projeto-RaizerTech] <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="25" width="25">
+<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" height="55" width="55"> [Demonstração-Projeto-RaizerTech] <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" height="25" width="25">
 
-<img height="380em" src="public/images/apresentacao-readme-formulario.png"   align="center">
+<img height="380em" src="public/images/apresentacao-readme-formulario.png">
+
+</div> 
 
 <br>
 
 ---
 
-<div align="left">
+<div class="no-border"  align="left">
 
 ## 📑 Índice
 - [Formulário Low Code](#formulário-low-code)
@@ -41,23 +50,42 @@
   - [Licença](#licença)
   - [👤 Autor](#-autor)
 
+<br>
+
 ---
 
 ## 🎯Objetivo
 
 Criar uma solução Low Code que:
-✅ Gera formulários responsivos a partir de configuração JSON
-✅ Envia dados diretamente para WhatsApp
-✅ Permite customização visual sem alterar código
-✅ Reduz tempo de desenvolvimento em 80% comparado a métodos tradicionais
+
+✅ Gera formulários responsivos a partir de configuração JSON.
+
+✅ Envia dados diretamente para WhatsApp.
+
+✅ Permite customização visual sem alterar código.
+
+✅ Reduz tempo de desenvolvimento em 80% comparado a métodos tradicionais.  
+
+✅ Cria efeitos com:
+
+   - 5 camadas visuais de profundidade;
+
+   - Brilho dinâmico que reage ao movimento;
+
+   - Animação sutil de flutuação;
+
+   - Efeito de luz ambiente;
+
+   - Compatível com mobile (usa transformações 3D aceleradas por GPU). 
 
 <br>
-
+  
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 <p align="left">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -65,6 +93,7 @@ Criar uma solução Low Code que:
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS">
 </p>
+
 <br>
 
 ---
@@ -136,6 +165,10 @@ lowcode-form/
 ├── .gitignore # Arquivos ignorados pelo Git
 └── package.json # Dependências e scripts
 ```
+
+<br>
+
+---
 
 ## Fluxo de Funcionamento
 

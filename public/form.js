@@ -1,6 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Schema do formulário (equivalente ao JSON)
-    const formFields = [
+
+  const formContainer = document.getElementById('form-container');    
+    
+  const mainTitle = document.createElement('h1');
+    mainTitle.className = 'main-title';
+    mainTitle.innerHTML = '<span>FORMULÁRIO</span> <span style="color: #004e92;">LOWCODE</span>';
+    formContainer.appendChild(mainTitle);
+    
+const icon = document.createElement('i');
+icon.className = 'fas fa-code'; 
+icon.style.marginLeft = '10px';
+mainTitle.appendChild(icon);
+
+  const formFields = [
       {
         id: 'nome',
         label: 'Nome Completo',
@@ -113,4 +125,22 @@ form.innerHTML += `
           btn.innerHTML = btnText;
         }, 1500);
       });
+
+      // Adicione no final do seu arquivo, antes do fechamento do DOMContentLoaded
+formContainer.addEventListener('mousemove', (e) => {
+  const { left, top, width, height } = formContainer.getBoundingClientRect();
+  const x = (e.clientX - left) / width - 0.5;
+  const y = (e.clientY - top) / height - 0.5;
+  
+  formContainer.style.transform = `
+    perspective(1000px)
+    rotateX(${y * 5}deg)
+    rotateY(${x * 5}deg)
+    translateZ(10px)
+  `;
+});
+
+formContainer.addEventListener('mouseleave', () => {
+  formContainer.style.transform = 'perspective(1000px) rotateX(0) rotateY(0)';
+});
   });
