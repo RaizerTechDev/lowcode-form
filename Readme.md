@@ -1,7 +1,5 @@
 <div align="center">
 
-<style>h1, h2 { border-bottom: none !important; padding-bottom: 0 !important; }</style>
-
 # Formulário Low Code
 
 🚀 Envie pedidos diretamente para meu WhatsApp com um formulário gerado automaticamente!
