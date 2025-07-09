@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Formulário Low Code</h1>
+<style>h1, h2 { border-bottom: none !important; padding-bottom: 0 !important; }</style>
+
+# Formulário Low Code
 
 🚀 Envie pedidos diretamente para meu WhatsApp com um formulário gerado automaticamente!
 
@@ -12,11 +14,9 @@
 
 <br>
   
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 15px 0;">
-  <img src="https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" height="55" width="55">
+<img src="https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" height="55" width="55">
   <span>Demonstração-Projeto-RaizerTech</span>
   <img src="https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" height="25" width="25">
-</div>
 
 <img height="380" src="public/images/apresentacao-readme-formulario.png" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
@@ -28,15 +28,15 @@
 
 <div align="left">
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">📑 Índice</h2>
+## 📑 Índice</h2>
 
 - [Formulário Low Code](#formulário-low-code)
   - [🎯Objetivo](#objetivo)
   - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-  - [Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
+  - [🛠️Configuração e Instalação dos Ambientes](#️configuração-e-instalação-dos-ambientes)
     - [Pré-requisitos](#pré-requisitos)
     - [Instale as dependências](#instale-as-dependências)
-  - [Execução](#-execução)
+  - [🚀 Execução](#-execução)
     - [Passo a Passo](#passo-a-passo)
       - [1. Clone o repositório](#1-clone-o-repositório)
       - [2. Execute o servidor](#2-execute-o-servidor)
@@ -50,7 +50,7 @@
 
 --- 
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">🎯Objetivo</h2>
+## 🎯Objetivo
 
 Criar uma solução Low Code que:
 
@@ -78,7 +78,7 @@ Criar uma solução Low Code que:
   
 --- 
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">🛠️ Tecnologias Utilizadas</h2>
+## 🛠️ Tecnologias Utilizadas
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -93,16 +93,16 @@ Criar uma solução Low Code que:
   
 ---
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 🛠️Configuração e Instalação dos Ambientes</h2>
+## 🛠️Configuração e Instalação dos Ambientes
 
-<h3 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Pré-requisitos</h3> 
+### Pré-requisitos 
 
 - Node.js (v18+)
 - NPM (v9+)
 
 <br>
 
-<h3 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> Instale as dependências<h3>
+### Instale as dependências
 
 ```bash
 npm install
@@ -112,11 +112,11 @@ npm install
 
 ---
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 🚀 Execução </h2>
+## 🚀 Execução
 
-<h3 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Passo a Passo</h3>
+### Passo a Passo
 
-<h4 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 1. Clone o repositório</h4>
+#### 1. Clone o repositório
 
 ```bash
 git clone https://github.com/seu-usuario/lowcode-form.git
@@ -125,7 +125,7 @@ cd lowcode-form
 
 <br>
 
-<h4 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 2. Execute o servidor</h4>
+#### 2. Execute o servidor
 
 ```bash
 npm start
@@ -136,7 +136,7 @@ npm start
 
 <br>
 
-<h4 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> 3. Cria versão otimizada (se aplicável)</h4>
+#### 3. Cria versão otimizada (se aplicável)
 
 ```bash
 npm run build
@@ -146,7 +146,7 @@ npm run build
 
 ---
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">Estrutura do Projeto</h2>
+## Estrutura do Projeto
 
 ```text
 lowcode-form/
@@ -165,7 +165,7 @@ lowcode-form/
 
 ---
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> Fluxo de Funcionamento</h2>
+## Fluxo de Funcionamento</h2>
 
 - Diagrama
   <img height="280em" src="public/images/fluxo-funcionamento.png"   align="center">
@@ -186,7 +186,7 @@ lowcode-form/
 
 ---
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;"> Licença</h2>
+## Licença
 
 Este projeto está sob licença MIT - veja o arquivo LICENSE para detalhes.
 
@@ -194,10 +194,11 @@ Este projeto está sob licença MIT - veja o arquivo LICENSE para detalhes.
 
 ---
 
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 10px !important;">👤 Autor</h2>
+### 👤 Autor
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
     <p>&nbsp&nbsp&nbspRafaRaizer-Dev<br>
     &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RaizerTechDev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://raizertechdev-portfolio.netlify.app/">Portfólio</a>&nbsp;</p>
 </p>
+
