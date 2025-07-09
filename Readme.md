@@ -25,8 +25,6 @@
 
 <img height="380em" src="public/images/apresentacao-readme-formulario.png">
 
-</div> 
-
 <br>
 
 ---
