@@ -57,7 +57,7 @@ title.textContent = 'Faça seu pedido';
 
 const robotGif = document.createElement('img');
 robotGif.src = '/images/robot.gif'; 
-robotGif.alt = 'Robô animado';
+robotGif.alt = 'Robo animado';
 robotGif.classList.add('robot-gif');
 
 titleContainer.appendChild(title);
@@ -126,7 +126,7 @@ form.innerHTML += `
         }, 1500);
       });
 
-      // Adicione no final do seu arquivo, antes do fechamento do DOMContentLoaded
+      
 formContainer.addEventListener('mousemove', (e) => {
   const { left, top, width, height } = formContainer.getBoundingClientRect();
   const x = (e.clientX - left) / width - 0.5;
