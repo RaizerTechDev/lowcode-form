@@ -16,7 +16,7 @@
 
   <br>
   
-<img height="380" src="public/images/apresentacao-readme-formulario.png" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<img height="380" src="public/images//formulario-lowcode-readme.gif" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
 </div>
 
